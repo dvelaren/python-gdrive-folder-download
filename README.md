@@ -1,7 +1,9 @@
 # Google Drive Download Folder Python
 
 ## Setup:
-1. Setup virtual environment
+1. Create `client_secrets.json` following [this tutorial](https://learndataanalysis.org/google-drive-api-in-python-getting-started-lesson-1/)
+   
+2. Setup virtual environment
 (Linux only)
 ```sh
 python3.8 -m venv env
